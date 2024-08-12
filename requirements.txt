@@ -2,4 +2,4 @@ discord.py==2.2.3
 SQLAlchemy==2.0.20
 python-dotenv==1.0.0
 python-bitcoinrpc==1.0
-requests==2.31.0
+requests==2.32.2
